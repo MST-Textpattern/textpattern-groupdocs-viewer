@@ -3,7 +3,7 @@
 
 GroupDocs Viewer plugin for Textpattern
 
-With GroupDocs Viewer plugin for Textpattern you can easily view on [annotate on PDF's](http://groupdocs.com/apps/Viewer), Word documents, Excel documents, Powerpoint documents and more with the GroupDocs Viewer tool, directly from within your Textpattern website.
+With GroupDocs Viewer plugin for Textpattern you can easily view on [online PDF viewer](http://groupdocs.com/apps/Viewer), Word documents, Excel documents, Powerpoint documents and more with the GroupDocs Viewer tool, directly from within your Textpattern website.
 
 ###Plugin Manual Installation Instructions:
 
