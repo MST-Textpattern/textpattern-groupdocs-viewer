@@ -17,4 +17,4 @@ With GroupDocs Viewer plugin for Textpattern you can easily view on [online PDF 
 * [Embed DOC, DOCX, PDF Viewer in your Textpattern CMS website] (http://textpattern.org/plugins/1268/gdv_groupdocs_viewer_v01)
 * [See source code for GroupDocs Viewer plugin for Textpattern CMS](https://github.com/groupdocs/textpattern-groupdocs-viewer-source)
 
-###Created by [GroupDocs Marketplace Team](http://groupdocs.com/marketplace/).
+###Created by [GroupDocs Marketplace Team](http://groupdocs.com/marketplace/plugins).
